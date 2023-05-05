@@ -11,10 +11,8 @@ To install Netsink, follow these steps:
 2. Clone the Netsink repository to your local machine:
 
    ```
-   git clone https://github.com/username/netsink.git
+   git clone https://github.com/canalesb93/netsink.git
    ```
-
-   Replace `username` with the correct username or organization name.
 
 3. Navigate to the Netsink directory:
 
